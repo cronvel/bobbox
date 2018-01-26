@@ -1,0 +1,45 @@
+{
+  "name": "bobbox",
+  "version": "0.0.0",
+  "description": "Agnostic box-model and text-flow",
+  "main": "lib/bobbox.js",
+  "engines": {
+    "node": ">=6.12.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^4.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cronvel/bobbox.git"
+  },
+  "keywords": [
+    "pdf",
+    "renderer",
+    "html"
+  ],
+  "author": "Cédric Ronvel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cronvel/bobbox/issues"
+  },
+  "config": {
+    "tea-time": {
+      "coverDir": [
+        "lib"
+      ]
+    }
+  },
+  "copyright": {
+    "title": "Bobbox",
+    "years": [
+      2018
+    ],
+    "owner": "Cédric Ronvel"
+  }
+}
