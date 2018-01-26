@@ -1,6 +1,6 @@
 {
   "name": "bobbox",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Agnostic box-model and text-flow",
   "main": "lib/bobbox.js",
   "engines": {
@@ -19,9 +19,10 @@
     "url": "https://github.com/cronvel/bobbox.git"
   },
   "keywords": [
-    "pdf",
-    "renderer",
-    "html"
+    "box",
+    "model",
+    "text",
+    "flow"
   ],
   "author": "Cédric Ronvel",
   "license": "MIT",
