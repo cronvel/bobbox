@@ -1,6 +1,6 @@
 {
   "name": "bobbox",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Agnostic box-model and text-flow",
   "main": "lib/bobbox.js",
   "engines": {
